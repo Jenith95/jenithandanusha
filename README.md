@@ -1,2 +1,2 @@
-# manoandsahana
+# JenithanushaWedding
 wedding invitaion
