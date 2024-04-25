@@ -9455,6 +9455,9 @@ a.text-dark:hover, a.text-dark:focus {
 .font-secondary {
   font-family: 'Great Vibes', cursive;
 }
+.savethedae {
+	width: 240px;
+}
 .font-tirtry {
   font-family: "Allura", cursive;
   font-weight: 400;
@@ -9766,4 +9769,7 @@ a.text-dark:hover, a.text-dark:focus {
   #event .border-right , #location .border-right {
     border-right: none !important;
   }
+	.savethedae {
+		width: 160px
+	}
 }
